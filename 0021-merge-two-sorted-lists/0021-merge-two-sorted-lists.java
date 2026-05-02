@@ -12,15 +12,13 @@ class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
        if(list1==null) return list2;
        else if(list2==null) return list1;
-       ListNode ans = new ListNode();
        if(list1.val<=list2.val){
-        ans = list1;
-        ans.next=mergeTwoLists(list1.next, list2);
+        list1.next=mergeTwoLists(list1.next, list2);
+        return list1;
        }
        else{
-        ans = list2;
-        ans.next = mergeTwoLists(list1, list2.next);
+        list2.next = mergeTwoLists(list1, list2.next);
+        return list2;
        }
-       return ans;
     }
 }
