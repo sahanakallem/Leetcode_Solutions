@@ -13,6 +13,7 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
