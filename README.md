@@ -26,4 +26,16 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
