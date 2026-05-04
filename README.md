@@ -18,4 +18,12 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
