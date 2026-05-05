@@ -13,6 +13,7 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Recursion
@@ -46,5 +47,6 @@ Feel free to explore, learn, or even suggest improvements!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
