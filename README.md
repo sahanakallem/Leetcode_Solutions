@@ -57,4 +57,20 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3660-jump-game-ix](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
