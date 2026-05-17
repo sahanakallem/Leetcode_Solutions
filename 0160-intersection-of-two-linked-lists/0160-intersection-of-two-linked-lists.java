@@ -11,38 +11,15 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int l1 = 0, l2=0;
-        ListNode temp1 = headA;
-        ListNode temp2 = headB;
-        while(temp1!=null&&temp2!=null){
-            l1++;
-            l2++;
-            temp1=temp1.next;
-            temp2=temp2.next;
+        ListNode pointerA = headA;
+        ListNode pointerB = headB;
+        // if there is no intersection, both the pointer become equal at null and the while loop stops.
+        while(pointerA!=pointerB){
+            pointerA = (pointerA==null)? headB : pointerA.next;
+            pointerB = (pointerB==null)? headA : pointerB.next;
         }
-        while(temp1!=null){
-            l1++;
-            temp1 = temp1.next;
-        } 
-        while(temp2!=null){
-            l2++;
-            temp2 = temp2.next;
-        }
-        temp1 = headA; 
-        temp2 = headB;
-        for(int i=0; l1>l2; i++){
-            temp1 = temp1.next;
-            l1--;
-        }
-        for(int i=0; l2>l1; i++){
-            temp2 = temp2.next;
-            l2--;
-        }
-        while(temp1!=null && temp2!=null){
-            if(temp1==temp2) return temp1;
-            temp1 = temp1.next;
-            temp2 = temp2.next;
-        }
-        return null;
+        //Both the pointers are traversing equal length A+B
+        //So, when both of them switch the linkedlist, they end up cancelling the length difference and that makes them both be at equal distance from the intersection.
+        return pointerA;
     }
 }
