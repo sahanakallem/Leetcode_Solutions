@@ -16,6 +16,7 @@ Feel free to explore, learn, or even suggest improvements!
 | [0061-rotate-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,11 +48,13 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1861-rotating-the-box](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1861-rotating-the-box/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
