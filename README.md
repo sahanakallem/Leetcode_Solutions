@@ -22,6 +22,7 @@ Feel free to explore, learn, or even suggest improvements!
 | [0206-reverse-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Feel free to explore, learn, or even suggest improvements!
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1861-rotating-the-box/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
