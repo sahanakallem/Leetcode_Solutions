@@ -21,6 +21,7 @@ Feel free to explore, learn, or even suggest improvements!
 | [0203-remove-linked-list-elements](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [1861-rotating-the-box](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [3660-jump-game-ix](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
@@ -56,6 +58,7 @@ Feel free to explore, learn, or even suggest improvements!
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,12 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
