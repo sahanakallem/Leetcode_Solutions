@@ -43,6 +43,7 @@ Feel free to explore, learn, or even suggest improvements!
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [3660-jump-game-ix](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
