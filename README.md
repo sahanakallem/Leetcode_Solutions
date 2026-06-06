@@ -48,6 +48,7 @@ Feel free to explore, learn, or even suggest improvements!
 | [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3660-jump-game-ix](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -110,4 +111,8 @@ Feel free to explore, learn, or even suggest improvements!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/0705-design-hashset/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/sahanakallem/Leetcode_Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 <!---LeetCode Topics End-->
